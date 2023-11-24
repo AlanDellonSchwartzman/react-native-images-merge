@@ -1,8 +1,8 @@
 {
   "name": "react-native-images-merge",
   "title": "React Native Images Merge",
-  "version": "1.1.4",
-  "description": "Combine square images vertically",
+  "version": "1.1.9",
+  "description": "Combine square images vertically or horizontally",
   "main": "index.js",
   "files": [
     "README.md",
@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cristea2017/react-native-images-merge.git",
-    "baseUrl": "https://github.com/cristea2017/react-native-images-merge"
+    "url": "git+https://github.com/AlanDellonSchwartzman/react-native-images-merge.git",
+    "baseUrl": "https://github.com/AlanDellonSchwartzman/react-native-images-merge"
   },
   "keywords": [
     "react-native"
@@ -36,5 +36,9 @@
   "devDependencies": {
     "react": "^16.9.0",
     "react-native": "^0.61.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/AlanDellonSchwartzman/react-native-images-merge/issues"
+  },
+  "homepage": "https://github.com/AlanDellonSchwartzman/react-native-images-merge#readme"
 }
